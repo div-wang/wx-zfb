@@ -1,17 +1,17 @@
-# 支付宝 => 微信
+# wx-zfb
 
 > 微信里直接打开支付宝红包
 
-## Build Setup
+## 编译
 
 ``` bash
-# install dependencies
+# 安装依赖
 npm install
 
-# serve with hot reload at localhost:3003
+# 启动 3003 端口的服务
 npm start
 
-# build for production with minification
+# 编译可执行静态文件
 npm run build
 
 ```
